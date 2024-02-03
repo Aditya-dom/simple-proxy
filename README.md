@@ -12,7 +12,8 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
  - secure it with turnstile - prevent bots from using your proxy
 
 > [!WARNING]
-> Turnstile integration only works properly with cloudflare workers as platform
+> Turnstile integration only works properly with cloudflare workers as platform.
+> Click here for more information of [Turnstile with Workers](https://developers.cloudflare.com/workers/examples/turnstile-html-rewriter/)
 
 ### supported platforms:
  - cloudflare workers
