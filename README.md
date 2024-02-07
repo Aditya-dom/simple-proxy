@@ -13,6 +13,7 @@ Read the docs at https://docs.movie-web.app/proxy/introduction
 
 > [!WARNING]
 > Turnstile integration only works properly with cloudflare workers as platform.
+> 
 > Click here for more information on [Turnstile with Workers](https://developers.cloudflare.com/workers/examples/turnstile-html-rewriter/)
 
 ### supported platforms:
